@@ -1,7 +1,7 @@
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
-#### eden
-> A theme for [fishshell][fish-link].
+#### keden
+> A theme based on [eden][eden-link] for [fishshell][fish-link].
 
 [![MIT License][license-badge]](/LICENSE)
 [![Fish Shell Version][fish-badge]](http://fishshell.com)
@@ -12,12 +12,7 @@
 ## Install
 
 Using [Oh My Fish][omf-link]:
-```shell
-$ omf install eden
-
-# to uninstall :/
-$ omf uninstall eden
-```
+Not Available Yet!
 
 Using [Fisherman][fisher-link]:
 ```shell
@@ -46,12 +41,18 @@ Font: [INCONSOLATA](https://www.google.com/fonts/specimen/Inconsolata)
 
 # License
 
-[MIT][mit] © [Amio][author]
+[MIT][mit] © [Klaushayan][fork-author]
+
+# Thanks
+
+[Amio][org-author]
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/amio
+[org-author]:   http://github.com/amio
+[fork-author]:  http://github.com/klaushayan      
 [fish-link]:      http://fishshell.com/
+[eden-link]:    https://github.com/amio/fish-theme-eden
 [omf-link]:       https://github.com/oh-my-fish/oh-my-fish
 [fisher-link]:    https://github.com/fisherman/fisherman
 [omf-badge]:      https://flat.badgen.net/badge/Oh%20My%20Fish/Framework
